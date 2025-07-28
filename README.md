@@ -1,4 +1,5 @@
-# Deep-Learning-models-for-SPY-ETF-trend-prediction-and-backtest-with-trading-strategy
+# TrendSync: Deep Learning Framework for SPY ETF Trend Prediction and Backtesting
+
 
 **🔍 Overview**
 
